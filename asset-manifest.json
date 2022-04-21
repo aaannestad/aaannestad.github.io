@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aaannestad/aaannestad.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/aaannestad/aaannestad.github.io/static/js/main.15bce9f9.js",
-    "static/js/787.d385e066.chunk.js": "/aaannestad/aaannestad.github.io/static/js/787.d385e066.chunk.js",
-    "index.html": "/aaannestad/aaannestad.github.io/index.html",
-    "main.073c9b0a.css.map": "/aaannestad/aaannestad.github.io/static/css/main.073c9b0a.css.map",
-    "main.15bce9f9.js.map": "/aaannestad/aaannestad.github.io/static/js/main.15bce9f9.js.map",
-    "787.d385e066.chunk.js.map": "/aaannestad/aaannestad.github.io/static/js/787.d385e066.chunk.js.map"
+    "main.css": "/aaannestad.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/aaannestad.github.io/static/js/main.ddce25a6.js",
+    "static/js/787.d385e066.chunk.js": "/aaannestad.github.io/static/js/787.d385e066.chunk.js",
+    "index.html": "/aaannestad.github.io/index.html",
+    "main.073c9b0a.css.map": "/aaannestad.github.io/static/css/main.073c9b0a.css.map",
+    "main.ddce25a6.js.map": "/aaannestad.github.io/static/js/main.ddce25a6.js.map",
+    "787.d385e066.chunk.js.map": "/aaannestad.github.io/static/js/787.d385e066.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.15bce9f9.js"
+    "static/js/main.ddce25a6.js"
   ]
 }
