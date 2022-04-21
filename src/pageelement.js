@@ -18,7 +18,7 @@ export function LinkElement(props) {
     case "jp":
       return (
         <p>
-          <a href={props.link}>{props.linktextjp}</a> - {props.desctextjp}
+          <a href={props.link}>{props.linktextjp}</a> ・ {props.desctextjp}
         </p>
       );
   }
