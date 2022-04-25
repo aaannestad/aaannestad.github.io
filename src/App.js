@@ -101,7 +101,7 @@ export default function App() {
             lang={lang}
             link="mirja.conlang.org"
             linktexten="mirja.conlang.org"
-            linxtextjp="mirja.conlang.org"
+            linktextjp="mirja.conlang.org"
             desctexten="a website documenting my personal-use language Mirja"
             desctextjp="ミリャという個人用言語を記録するウエブサイト"
           />
@@ -109,7 +109,7 @@ export default function App() {
             lang={lang}
             link="hinosue.conlang.org"
             linktexten="hinosue.conlang.org"
-            linxtextjp="hinosue.conlang.org"
+            linktextjp="hinosue.conlang.org"
             desctexten="a website for an alternate history project focusing on dialects of North American Japanese"
             desctextjp="架空歴史の日本語の北米諸方言を中心とする架空歴史プロジェクトを記録するウエブサイト"
           />
