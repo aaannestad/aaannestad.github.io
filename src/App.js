@@ -95,11 +95,11 @@ export default function App() {
           <TextElement
             lang={lang}
             texten="I have a couple of constructed language-related websites:"
-            textjp="人工言語関連のウエブサイトは２つ持っています："
+            textjp="人工言語関連のウエブサイトは二つ持っています："
           />
           <LinkElement
             lang={lang}
-            link="mirja.conlang.org"
+            link="https://mirja.conlang.org"
             linktexten="mirja.conlang.org"
             linktextjp="mirja.conlang.org"
             desctexten="a website documenting my personal-use language Mirja"
@@ -107,7 +107,7 @@ export default function App() {
           />
           <LinkElement
             lang={lang}
-            link="hinosue.conlang.org"
+            link="https://hinosue.conlang.org"
             linktexten="hinosue.conlang.org"
             linktextjp="hinosue.conlang.org"
             desctexten="a website for an alternate history project focusing on dialects of North American Japanese"
