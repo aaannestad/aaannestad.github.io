@@ -94,6 +94,28 @@ export default function App() {
           <hr></hr>
           <TextElement
             lang={lang}
+            texten="I have a couple of constructed language-related websites:"
+            textjp="人工言語関連のウエブサイトは２つ持っています："
+          />
+          <LinkElement
+            lang={lang}
+            link="mirja.conlang.org"
+            linktexten="mirja.conlang.org"
+            linxtextjp="mirja.conlang.org"
+            desctexten="a website documenting my personal-use language Mirja"
+            desctextjp="ミリャという個人用言語を記録するウエブサイト"
+          />
+          <LinkElement
+            lang={lang}
+            link="hinosue.conlang.org"
+            linktexten="hinosue.conlang.org"
+            linxtextjp="hinosue.conlang.org"
+            desctexten="a website for an alternate history project focusing on dialects of North American Japanese"
+            desctextjp="架空歴史の日本語の北米諸方言を中心とする架空歴史プロジェクトを記録するウエブサイト"
+          />
+          <hr></hr>
+          <TextElement
+            lang={lang}
             texten="I've also done a few other things, largely related to linguistics."
             textjp="他にも主に言語学に関連したことをしたことがあります。"
           />
@@ -134,7 +156,7 @@ export default function App() {
             link="https://github.com/aaannestad/ugy-keyboard"
             linktexten="ugy-keyboard"
             linktextjp="ugy-keyboard"
-            desctexten="a custom ergonomic layout, which I use every day"
+            desctexten="a custom ergonomic keyboard layout, which I use every day"
             desctextjp="私が毎日使うオリジナルなエルゴノミックキーボード配列"
           />
         </div>
