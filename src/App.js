@@ -94,8 +94,8 @@ export default function App() {
           <hr></hr>
           <TextElement
             lang={lang}
-            texten="I've also written a few articles, largely related to linguistics."
-            textjp="他にも主に言語学に関連した文章はは書いたことがあります。"
+            texten="I've also done a few other things, largely related to linguistics."
+            textjp="他にも主に言語学に関連したことをしたことがあります。"
           />
           <LinkElement
             lang={lang}
@@ -120,6 +120,22 @@ export default function App() {
             desctexten="an article explaining ways in which the structure of languages' lexicons can vary (primarily aimed at people making constructed languages)"
             linktextjp="語彙類型論入門"
             desctextjp="言語の語彙の構造が異なる方法をいくつか紹介する文章（英語・主に人工言語作者向け）"
+          />
+          <LinkElement
+            lang={lang}
+            link="https://github.com/aaannestad/ipa-xsampa-keyboard"
+            linktexten="ipa-xsampa-keyboard"
+            linktextjp="ipa-xsampa-keyboard"
+            desctexten="a keyboard layout for typing IPA letters via X-SAMPA-based input conventions"
+            desctextjp="X-SAMPAの変換方法を使う、IPAを入力するためのキーボード配列"
+          />
+          <LinkElement
+            lang={lang}
+            link="https://github.com/aaannestad/ugy-keyboard"
+            linktexten="ugy-keyboard"
+            linktextjp="ugy-keyboard"
+            desctexten="a custom ergonomic layout, which I use every day"
+            desctextjp="私が毎日使うオリジナルなエルゴノミックキーボード配列"
           />
         </div>
       </div>
