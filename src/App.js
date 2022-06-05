@@ -91,7 +91,7 @@ export default function App() {
               "見ることができます。（言語変更機能はReactを使って実装されています。）",
             ]}
           />
-          <hr></hr>
+          {/* <hr></hr>
           <TextElement
             lang={lang}
             texten="I have a couple of constructed language-related websites:"
@@ -112,7 +112,7 @@ export default function App() {
             linktextjp="hinosue.conlang.org"
             desctexten="a website for an alternate history project focusing on dialects of North American Japanese"
             desctextjp="架空歴史の日本語の北米諸方言を中心とする架空歴史プロジェクトを記録するウエブサイト"
-          />
+          /> */}
           <hr></hr>
           <TextElement
             lang={lang}
