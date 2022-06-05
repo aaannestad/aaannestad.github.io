@@ -149,7 +149,7 @@ export default function App() {
             linktexten="ipa-xsampa-keyboard"
             linktextjp="ipa-xsampa-keyboard"
             desctexten="a keyboard layout for typing IPA letters via X-SAMPA-based input conventions"
-            desctextjp="X-SAMPAの変換方法を使う、IPAを入力するためのキーボード配列"
+            desctextjp="X-SAMPAの変換方法を使う、国際音声記号を入力するためのキーボード配列"
           />
           <LinkElement
             lang={lang}
