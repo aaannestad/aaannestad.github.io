@@ -42,9 +42,7 @@ export default function App() {
             ]}
             textjp={[
               "履歴書の",
-              <a href="https://github.com/aaannestad/aaannestad.github.io">
-                英語版はこちら
-              </a>,
+              <a href={cv2022}>英語版はこちら</a>,
               "で、",
               <a href="https://github.com/aaannestad/aaannestad.github.io">
                 日本語版はこちら
