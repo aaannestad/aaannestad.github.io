@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1ea8895b.css",
-    "main.js": "/static/js/main.1a8c260f.js",
+    "main.js": "/static/js/main.c562369c.js",
     "static/js/787.d385e066.chunk.js": "/static/js/787.d385e066.chunk.js",
+    "static/media/how to use tex.pdf": "/static/media/how to use tex.2faf0f8c83783d55563d.pdf",
     "static/media/cv2022.pdf": "/static/media/cv2022.e030ed71ede8050b0e91.pdf",
     "index.html": "/index.html",
     "main.1ea8895b.css.map": "/static/css/main.1ea8895b.css.map",
-    "main.1a8c260f.js.map": "/static/js/main.1a8c260f.js.map",
+    "main.c562369c.js.map": "/static/js/main.c562369c.js.map",
     "787.d385e066.chunk.js.map": "/static/js/787.d385e066.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ea8895b.css",
-    "static/js/main.1a8c260f.js"
+    "static/js/main.c562369c.js"
   ]
 }
