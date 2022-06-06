@@ -3,6 +3,7 @@ import { TextElement, LinkElement } from "./pageelement";
 import Header from "./header";
 import { React, useState } from "react";
 import cv2022 from "./cv2022.pdf";
+import texintro from "./how to use tex.pdf";
 
 export default function App() {
   const [lang, updateLang] = useState("en");
@@ -26,8 +27,8 @@ export default function App() {
         <div class="col-2">
           <TextElement
             lang={lang}
-            texten="(some self-introduction)"
-            textjp="（何らかの自己紹介）"
+            texten="Hello! I'm Aidan Aannestad, a former linguist looking to transition to web development work. This is a page about me and the things I've done."
+            textjp="こんにちは！私はエイデン・オンセスターと言います。元言語学者で、今はウエブ開発の仕事に移行しようと思っています。このページは、私や私のやったことを紹介します。よろしくお願いします。"
           />
           <TextElement
             lang={lang}
@@ -57,7 +58,7 @@ export default function App() {
           />
           <LinkElement
             lang={lang}
-            link="c:\"
+            link="https://github.com/aaannestad/worktimer"
             linktexten="worktimer.rb"
             desctexten="a small Ruby app (with a Tk-based GUI) that tracks time use across different projects during your day"
             linktextjp="worktimer.rb"
@@ -65,7 +66,7 @@ export default function App() {
           />
           <LinkElement
             lang={lang}
-            link="c:\"
+            link="https://github.com/aaannestad/visual-trip-planner"
             linktexten="Visual Trip Planner"
             desctexten="a (work-in-progress) web app for planning activities during a vacation or other trip via a visual interface"
             linktextjp="ビジュアル旅行計画機"
@@ -118,7 +119,7 @@ export default function App() {
           />
           <LinkElement
             lang={lang}
-            link="c:\"
+            link={texintro}
             linktexten="TeX for linguists"
             desctexten="an introduction to using TeX for linguistics work"
             linktextjp="言語学者向けのTeX入門"
