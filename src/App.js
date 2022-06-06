@@ -32,9 +32,7 @@ export default function App() {
             lang={lang}
             texten={[
               "You can find my resume/CV ",
-              <a href="https://github.com/aaannestad/aaannestad.github.io">
-                here in English
-              </a>,
+              <a href="../public/cv2022.pdf">here in English</a>,
               " and ",
               <a href="https://github.com/aaannestad/aaannestad.github.io">
                 here in Japanese
